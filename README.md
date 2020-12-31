@@ -8,7 +8,7 @@ The goal was to train some DRL Agents for trading stocks and investigate limitat
 
 At first setup your environment. I developed with PYthon v3.6.12 due to some restrictions at university server. There is a requirements file. Use it to install all necesarry packages: `pip install -r requirements.txt`.
 
-I hardly recommend to use VisualStudio Code with Development container. There is a complete configuration. So you only have to startup Docker and open VSCode. Just click "Reopen in Container" and docker will do the rest.
+I strongly recommend to use VisualStudio Code with Development container. There is a complete configuration. So you only have to startup Docker and open VSCode. Just click "Reopen in Container" and docker will do the rest.
 
 If you are not able to use Docker and VSCode create a virtual environment and install packages there.
 
